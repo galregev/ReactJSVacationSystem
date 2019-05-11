@@ -1,3 +1,3 @@
 # ReactJSVacationSystem
 
-![GitCover](https://imgur.com/AYLw2Gf)
+![GitCover](https://i.imgur.com/AYLw2Gf.jpg)
